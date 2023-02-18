@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,500;0,600;0,700;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Nunito",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background: linear-gradient(to right, #c9d6ff, #e2e2e2);*/
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .paperStaics{
+  background: url("https://technext.github.io/purple-react/static/media/circle.953c9ca0.svg");
+} */
+
+
+/* html::-webkit-scrollbar {
+  width: 1rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: #d9cdcd;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: rgb(55, 160, 235); /*crimson */
+  /*border-radius: 5rem;
+} */

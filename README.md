@@ -1,5 +1,5 @@
 # Note-Management-App
-notes management application for a school that will manage teachers, courses, modules, module components, evaluation methods, and grades. There are certain rules to be followed in managing the data in this application.
+Notes management application for a school that will manage teachers, courses, modules, module components, evaluation methods, and grades. There are certain rules to be followed in managing the data in this application.
 
 The rules for managing data are as follows:
 

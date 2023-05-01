@@ -18,9 +18,12 @@ The notes management application should enable teachers to manage grades of stud
 ## Screenshots
 
 <div>
+<div style="margin-bottom: 20px;">
 <img src="https://user-images.githubusercontent.com/123269689/228817706-7d17e49a-c28f-417a-9c49-a2fd9cfba16d.png" width="400"  alt="login screen" >
 <img src="https://user-images.githubusercontent.com/123269689/235451993-ff542119-1daf-4632-85a2-7406fde89fbd.png" width="400"  alt="elements screen" >
-<br/>
+</div>
+<div>
 <img src="https://user-images.githubusercontent.com/123269689/235452028-9234643c-aee4-4e85-9fdb-ce575ff5ac9c.png" width="400"  alt="compte screen" >
 <img src="https://user-images.githubusercontent.com/123269689/235452037-67a9048e-e8e7-46c7-aee3-9e78d771a12b.png" width="400"  alt="account screen" >
+</div>
 </div>
